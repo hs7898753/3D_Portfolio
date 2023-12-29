@@ -28,6 +28,7 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import GIS from './GIS.svg'
 import skyscanner from './skyscanner.svg'
+import PortLogo from './PortLogo.svg'
 
 export {
     css,
@@ -60,4 +61,5 @@ export {
     soundoff,
     GIS,
     skyscanner,
+    PortLogo,
 }

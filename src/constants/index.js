@@ -160,3 +160,34 @@ export const socialLinks = [
     }
 ];
 
+export const projects = [
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'AI Art Generator',
+        description: 'A SaaS application that leverages AI to do Coversation, Write Code, Generate Images, and Produce Videos/Music for you.',
+        link: 'https://github.com/hs7898753/AIArtGenerator',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'AgroCart E-Commerce Platform',
+        description: 'Built a full-stack e-commerce platform for farmers to sell their produce, and for customers to purchase fresh produce directly from farmers.',
+        link: 'https://github.com/hs7898753/AgroCart',
+    },
+    {
+        iconUrl: car,
+        theme: 'btn-back-blue',
+        name: 'Student Dropout Dashboard',
+        description: 'Developed a dashboard to help Policy makers identify students at risk of dropping out, and to help them to implement/make Student Policies.',
+        link: 'https://github.com/hs7898753/Student_Dropout_Dashboard',
+    },
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: '3D Personal Portfolio',
+        description: 'Developed a 3D Personal Portfolio using three.js and React to showcase my skills and projects, and to connect with other developers.',
+        link: 'https://github.com/hs7898753/3D_Portfolio',
+    },
+    
+]
