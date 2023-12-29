@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          Worked with many companies <br /> and picked up many skills along the way
+          I've been coding for a while now. <br /> Want to know more about me?
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
