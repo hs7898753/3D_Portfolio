@@ -1,4 +1,4 @@
-/* import { Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 import { socialLinks } from "../constants";
 
@@ -9,7 +9,7 @@ const Footer = () => {
 
       <div className='footer-container'>
         <p>
-          © 2023 <strong>Adrian Hajdin</strong>. All rights reserved.
+          © 2023 <strong>Harsh Sharma</strong>. All rights reserved.
         </p>
 
         <div className='flex gap-3 justify-center items-center'>
@@ -28,16 +28,4 @@ const Footer = () => {
   );
 };
 
-export default Footer; */
-
-import React from 'react'
-
-const Footer = () => {
-  return (
-    <div>
-      Footer
-    </div>
-  )
-}
-
-export default Footer
+export default Footer;
