@@ -21,7 +21,9 @@ This is a personal portfolio website built using React, Vite, and Three.js. It s
 #Technologies
 
 React: JavaScript library for building user interfaces.
+
 Vite: Fast and optimized build tool for modern web development.
+
 Three.js: JavaScript library for creating 3D graphics on the web.
 
 
